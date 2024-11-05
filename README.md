@@ -1,10 +1,10 @@
 # NOTE - PLEASE READ!
 The website link will change constantly to remove blocked message. If you would please, use the about:blank feature to lessen the ban percent.
 
-# Holy-Unblocker Website - The new way of unblocking websites.
+# Interstellar Prox - The new way of unblocking websites.
 Using Holy-Unblocker as a website generator. Context: Holy-Unblocker is a website that bypasses blocking systems like Securly, Netop Vision, etc.
 
-# What is Holy-Unblocker?
+# What is Interstellar?
 Holy-Unblocker is a website that bypasses school blocking systems and lets you search up anything + play anything. It's open 24/7 and is completely free to use.
 
 # Is this used with credit?
