@@ -1,3 +1,6 @@
+# NOTE - PLEASE READ!
+The website link will change constantly to remove blocked. (if multiple people get the website link blocked) Thank you.
+
 # Holy-Unblocker Website - The new way of unblocking websites.
 Using Holy-Unblocker as a website generator. Context: Holy-Unblocker is a website that bypasses blocking systems like Securly, Netop Vision, etc.
 
